@@ -1,10 +1,13 @@
 {
-  "version": 2,
   "name": "oyunsanaa-chat-wix7",
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ]
+  "version": "1.0.0",
+  "description": "Oyunsanaa Chat System - Mental Health Guide",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Static build completed'",
+    "start": "echo 'Static site ready'"
+  },
+  "keywords": ["chat", "mental-health", "mongolian"],
+  "author": "Oyunsanaa Team",
+  "license": "MIT"
 }
